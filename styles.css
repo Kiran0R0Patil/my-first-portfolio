@@ -200,14 +200,7 @@ img:hover {
 .skills-list {
   margin-right: 2rem;
 }
-.skills-bar i {
-  margin-left: 0.5rem;
-  opacity: 1;
-  color: var(--main-red);
-}
-.skills-bar .far {
-  opacity: 0.5;
-}
+
 
 @media (max-width: 28.75em) {
   .skill-cocur-section {
